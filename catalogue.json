@@ -1,0 +1,715 @@
+[
+  {
+    "category": "savoury",
+    "name": "Sausage rolls",
+    "image": "assets/product-001.webp",
+    "description": "Golden puff pastry rolls, shown in bakery trays. A classic for food counters and catering.",
+    "format": "Tray selections"
+  },
+  {
+    "category": "savoury",
+    "name": "Pies",
+    "image": "assets/product-002.webp",
+    "description": "Eight classic fillings, one golden pastry range. Choose your favourites for your next bulk order.",
+    "format": "Bulk bakery orders",
+    "variants": [
+      {
+        "name": "Classic Beef & Gravy",
+        "description": "Slow-cooked, tender minced or chunky beef swimming in a rich, dark gravy. The quintessential iconic bakery pie."
+      },
+      {
+        "name": "Steak & Pepper",
+        "description": "Tender chunks of beef paired with a bold, aromatic black pepper sauce that gives a satisfying kick."
+      },
+      {
+        "name": "Chunky Beef, Bacon & Cheese",
+        "description": "Diced steak combined with crispy bacon bits and a layer of melted cheddar or mozzarella cheese."
+      },
+      {
+        "name": "Steak & Mushroom",
+        "description": "Diced beef slow-braised with sliced mushrooms (like cremini or swiss brown) in a savoury, herbal gravy."
+      },
+      {
+        "name": "Lamb & Rosemary",
+        "description": "Tender pulled or diced lamb cooked with garlic, fresh rosemary, and a dash of red wine."
+      },
+      {
+        "name": "Curry Beef or Lamb",
+        "description": "Minced or braised meat cooked in a mild, fragrant Indian- or Malay-style curry sauce with subtle warm spices."
+      },
+      {
+        "name": "Chicken, Leek & Cream",
+        "description": "Tender poached chicken breast/thigh with subtle sweet leeks in a velvety garlic and herb cream sauce."
+      },
+      {
+        "name": "Butter Chicken",
+        "description": "Diced chicken coated in a rich, mildly spiced tomato, butter, and cream sauce tucked into a flaky pastry crust."
+      }
+    ]
+  },
+  {
+    "category": "savoury",
+    "name": "Tomato & herb flatbread",
+    "image": "assets/product-003.webp",
+    "description": "Colourful tomato and herb flatbread for sharing, slicing and savoury displays.",
+    "format": "Sharing bakes"
+  },
+  {
+    "category": "savoury",
+    "name": "Mini quiches",
+    "image": "assets/product-004-clean.webp",
+    "description": "Bite-sized savoury quiches for mixed catering selections and event trays.",
+    "format": "Catering selections"
+  },
+  {
+    "category": "savoury",
+    "name": "Party sausage rolls",
+    "image": "assets/product-013.webp",
+    "description": "Bite-sized sausage rolls for shared platters and catered events.",
+    "format": "Party selections"
+  },
+  {
+    "category": "savoury",
+    "name": "Beef sausage rolls",
+    "image": "assets/product-014.webp",
+    "description": "Seasoned beef wrapped in layers of puff pastry.",
+    "format": "Tray selections"
+  },
+  {
+    "category": "savoury",
+    "name": "Pork & sage sausage rolls",
+    "image": "assets/product-015.webp",
+    "description": "Pork and sage filling in flaky golden pastry.",
+    "format": "Tray selections"
+  },
+  {
+    "category": "savoury",
+    "name": "Spinach & ricotta rolls",
+    "image": "assets/product-016.webp",
+    "description": "Spinach and ricotta filling in a savoury pastry roll.",
+    "format": "Tray selections"
+  },
+  {
+    "category": "savoury",
+    "name": "Cheese & bacon rolls",
+    "image": "assets/product-017.webp",
+    "description": "Cheese and bacon in a golden pastry roll for the savoury counter.",
+    "format": "Tray selections"
+  },
+  {
+    "category": "savoury",
+    "name": "Quiche Lorraine",
+    "image": "assets/product-018.webp",
+    "description": "A classic bacon and cheese quiche selection.",
+    "format": "Quiche selections"
+  },
+  {
+    "category": "savoury",
+    "name": "Spinach & feta quiches",
+    "image": "assets/product-019.webp",
+    "description": "Spinach and feta in an egg filling with a pastry base.",
+    "format": "Quiche selections"
+  },
+  {
+    "category": "savoury",
+    "name": "Roasted vegetable quiches",
+    "image": "assets/product-020.webp",
+    "description": "Roasted vegetables baked into a savoury quiche filling.",
+    "format": "Quiche selections"
+  },
+  {
+    "category": "cakes",
+    "name": "Chocolate celebration cake",
+    "image": "assets/product-021.webp",
+    "description": "A chocolate centrepiece with a drip finish and decorative toppings.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "Red velvet cake",
+    "image": "assets/product-022-clean.webp",
+    "description": "Vibrant red velvet cake with a rich, red crumb-coated finish.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "Carrot cake",
+    "image": "assets/product-023-clean.webp",
+    "description": "A bakery favourite with a frosted finish and a nut-coated edge.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "Baked cheesecake",
+    "image": "assets/product-024.webp",
+    "description": "Classic baked cheesecake with a golden top and biscuit-style base.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "Decorated celebration cake",
+    "image": "assets/product-025.webp",
+    "description": "A floral celebration centrepiece for special occasions and event tables.",
+    "format": "Celebration range"
+  },
+  {
+    "category": "cakes",
+    "name": "Black Forest cake",
+    "image": "assets/product-026-clean.webp",
+    "description": "Chocolate cake finished with cream, cherries and chocolate shavings.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "Chocolate mud cake",
+    "image": "assets/product-027.webp",
+    "description": "A dense chocolate cake for celebrations and dessert counters.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "White chocolate mud cake",
+    "image": "assets/product-028.webp",
+    "description": "A rich white chocolate cake with a smooth frosted finish.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "Caramel mud cake",
+    "image": "assets/product-029.webp",
+    "description": "A caramel-flavoured mud cake for a rich dessert selection.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "Vanilla butter cake",
+    "image": "assets/product-030.webp",
+    "description": "A classic vanilla butter cake for slicing and sharing.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "Lemon celebration cake",
+    "image": "assets/product-031.webp",
+    "description": "Lemon-flavoured cake with a frosted finish for special occasions.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "Orange & almond cake",
+    "image": "assets/product-032.webp",
+    "description": "Orange and almond flavours in a cake made for the café counter.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "Coffee & walnut cake",
+    "image": "assets/product-033.webp",
+    "description": "Coffee-flavoured cake with walnuts for a classic afternoon-tea option.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "Hummingbird cake",
+    "image": "assets/product-034.webp",
+    "description": "Banana, pineapple and spice with a cream-cheese-style frosting.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "Strawberry sponge cake",
+    "image": "assets/product-035.webp",
+    "description": "Soft sponge layers with a strawberry-inspired finish.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "Raspberry sponge cake",
+    "image": "assets/product-036.webp",
+    "description": "Sponge cake with a raspberry filling for a fruity dessert selection.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "Lemon baked cheesecake",
+    "image": "assets/product-037.webp",
+    "description": "Baked cheesecake with a bright lemon flavour.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "Caramel baked cheesecake",
+    "image": "assets/product-038.webp",
+    "description": "Creamy baked cheesecake with a caramel finish.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "Berry baked cheesecake",
+    "image": "assets/product-039.webp",
+    "description": "Baked cheesecake paired with a berry topping.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "cakes",
+    "name": "Chocolate baked cheesecake",
+    "image": "assets/product-040.webp",
+    "description": "A chocolate cheesecake selection for dessert cabinets.",
+    "format": "Whole cakes"
+  },
+  {
+    "category": "tarts",
+    "name": "Assorted patisserie tarts",
+    "image": "assets/product-041-clean.webp",
+    "description": "A colourful mix of individual tarts for a varied pastry counter.",
+    "format": "Mixed selections"
+  },
+  {
+    "category": "tarts",
+    "name": "Fruit tarts",
+    "image": "assets/product-042-clean.webp",
+    "description": "Fruit-topped pastry cases to brighten a dessert display.",
+    "format": "Individual tarts"
+  },
+  {
+    "category": "tarts",
+    "name": "Chocolate tarts",
+    "image": "assets/product-043.webp",
+    "description": "Glossy chocolate-filled pastry cases with a rich, simple finish.",
+    "format": "Individual tarts"
+  },
+  {
+    "category": "tarts",
+    "name": "Lemon meringue tarts",
+    "image": "assets/product-044-clean.webp",
+    "description": "Bright lemon tarts with a toasted meringue-style topping.",
+    "format": "Individual tarts"
+  },
+  {
+    "category": "tarts",
+    "name": "Pecan tarts",
+    "image": "assets/product-045-clean.webp",
+    "description": "Golden pastry cases with a pecan topping for a classic sweet selection.",
+    "format": "Individual tarts"
+  },
+  {
+    "category": "tarts",
+    "name": "Cream-topped tarts",
+    "image": "assets/product-046.webp",
+    "description": "Decorative cream-topped patisserie for dessert tables and café displays.",
+    "format": "Individual tarts"
+  },
+  {
+    "category": "tarts",
+    "name": "Apple crumble tart",
+    "image": "assets/product-047.webp",
+    "description": "A golden apple tart with a crumbly topping and a classic pastry base.",
+    "format": "Whole tarts"
+  },
+  {
+    "category": "tarts",
+    "name": "Portuguese custard tarts",
+    "image": "assets/product-048-clean.webp",
+    "description": "Flaky pastry cases filled with golden, caramelised custard.",
+    "format": "Individual tarts"
+  },
+  {
+    "category": "tarts",
+    "name": "Strawberry custard tarts",
+    "image": "assets/product-049-clean.webp",
+    "description": "Individual pastry cases with custard and strawberries.",
+    "format": "Individual tarts"
+  },
+  {
+    "category": "tarts",
+    "name": "Mixed berry tarts",
+    "image": "assets/product-050-clean.webp",
+    "description": "A mixed berry topping over a sweet tart filling.",
+    "format": "Individual tarts"
+  },
+  {
+    "category": "tarts",
+    "name": "Raspberry chocolate tarts",
+    "image": "assets/product-051.webp",
+    "description": "Chocolate-filled tarts paired with a raspberry accent.",
+    "format": "Individual tarts"
+  },
+  {
+    "category": "tarts",
+    "name": "Salted caramel tarts",
+    "image": "assets/product-052.webp",
+    "description": "Sweet caramel filling with a touch of salt in a pastry case.",
+    "format": "Individual tarts"
+  },
+  {
+    "category": "tarts",
+    "name": "Chocolate ganache tarts",
+    "image": "assets/product-053.webp",
+    "description": "Rich chocolate ganache in crisp sweet pastry.",
+    "format": "Individual tarts"
+  },
+  {
+    "category": "tarts",
+    "name": "Lemon curd tarts",
+    "image": "assets/product-054-clean.webp",
+    "description": "Tangy lemon curd in individual sweet pastry shells.",
+    "format": "Individual tarts"
+  },
+  {
+    "category": "tarts",
+    "name": "Passionfruit tarts",
+    "image": "assets/product-055.webp",
+    "description": "A tangy passionfruit filling for a tropical patisserie selection.",
+    "format": "Individual tarts"
+  },
+  {
+    "category": "tarts",
+    "name": "Pear & almond tarts",
+    "image": "assets/product-056.webp",
+    "description": "Pear and almond filling baked in a sweet pastry base.",
+    "format": "Tart selections"
+  },
+  {
+    "category": "tarts",
+    "name": "Apple & cinnamon tarts",
+    "image": "assets/product-057.webp",
+    "description": "Apple filling with cinnamon in golden sweet pastry.",
+    "format": "Tart selections"
+  },
+  {
+    "category": "tarts",
+    "name": "Mini pecan tarts",
+    "image": "assets/product-058.webp",
+    "description": "Small pecan-topped tarts for catering and dessert platters.",
+    "format": "Mini patisserie"
+  },
+  {
+    "category": "slices",
+    "name": "Caramel slice",
+    "image": "assets/product-059.webp",
+    "description": "A layered caramel favourite with a chocolate top and biscuit-style base.",
+    "format": "Counter slices"
+  },
+  {
+    "category": "slices",
+    "name": "Vanilla slice",
+    "image": "assets/product-060-clean.webp",
+    "description": "Custard-filled pastry slices with a smooth iced top.",
+    "format": "Tray selections"
+  },
+  {
+    "category": "slices",
+    "name": "Chocolate brownies",
+    "image": "assets/product-061-clean.webp",
+    "description": "Rich chocolate squares with a crackled top, presented in bakery batches.",
+    "format": "Traybakes"
+  },
+  {
+    "category": "slices",
+    "name": "Lemon & coconut slice",
+    "image": "assets/product-062.webp",
+    "description": "A citrus-inspired slice finished with coconut for a bright counter option.",
+    "format": "Counter slices"
+  },
+  {
+    "category": "slices",
+    "name": "Chocolate lamingtons",
+    "image": "assets/product-063.webp",
+    "description": "Coconut-coated sponge squares arranged as a classic bakery batch.",
+    "format": "Tray selections"
+  },
+  {
+    "category": "slices",
+    "name": "Strawberry sponge slices",
+    "image": "assets/product-064.webp",
+    "description": "Soft pink sponge slices to add colour to a mixed cake selection.",
+    "format": "Cake slices"
+  },
+  {
+    "category": "slices",
+    "name": "Rocky road",
+    "image": "assets/product-065.webp",
+    "description": "Chocolate, marshmallow and biscuit-style pieces in a chunky counter slice.",
+    "format": "Counter slices"
+  },
+  {
+    "category": "slices",
+    "name": "Banana bread loaves",
+    "image": "assets/product-066.webp",
+    "description": "Golden banana bread loaves for slicing, toasting and café counters.",
+    "format": "Loaf selections"
+  },
+  {
+    "category": "slices",
+    "name": "Salted caramel slice",
+    "image": "assets/product-067.webp",
+    "description": "Chocolate-topped caramel slice with a salted caramel layer.",
+    "format": "Counter slices"
+  },
+  {
+    "category": "slices",
+    "name": "Chocolate peppermint slice",
+    "image": "assets/product-068.webp",
+    "description": "A mint-flavoured layer beneath a chocolate topping.",
+    "format": "Counter slices"
+  },
+  {
+    "category": "slices",
+    "name": "Chocolate coconut slice",
+    "image": "assets/product-069.webp",
+    "description": "Chocolate and coconut in an easy-to-portion tray slice.",
+    "format": "Traybakes"
+  },
+  {
+    "category": "slices",
+    "name": "Hedgehog slice",
+    "image": "assets/product-070.webp",
+    "description": "Chocolate and biscuit pieces in a classic refrigerator-style slice.",
+    "format": "Counter slices"
+  },
+  {
+    "category": "slices",
+    "name": "Cherry chocolate slice",
+    "image": "assets/product-071.webp",
+    "description": "Cherry and chocolate flavours in a sweet counter slice.",
+    "format": "Counter slices"
+  },
+  {
+    "category": "slices",
+    "name": "Caramel brownie",
+    "image": "assets/product-072.webp",
+    "description": "Chocolate brownie with a caramel swirl.",
+    "format": "Traybakes"
+  },
+  {
+    "category": "slices",
+    "name": "Walnut brownie",
+    "image": "assets/product-073.webp",
+    "description": "Chocolate brownie with walnut pieces for added crunch.",
+    "format": "Traybakes"
+  },
+  {
+    "category": "slices",
+    "name": "Triple chocolate brownie",
+    "image": "assets/product-074.webp",
+    "description": "A chocolate brownie selection with mixed chocolate pieces.",
+    "format": "Traybakes"
+  },
+  {
+    "category": "slices",
+    "name": "Raspberry brownie",
+    "image": "assets/product-075-clean.webp",
+    "description": "Rich chocolate brownie with a raspberry accent.",
+    "format": "Traybakes"
+  },
+  {
+    "category": "slices",
+    "name": "Passionfruit slice",
+    "image": "assets/product-076.webp",
+    "description": "A bright passionfruit-flavoured topping on a sweet slice base.",
+    "format": "Counter slices"
+  },
+  {
+    "category": "slices",
+    "name": "Raspberry coconut slice",
+    "image": "assets/product-077-clean.webp",
+    "description": "Raspberry and coconut layers for the sweet cabinet.",
+    "format": "Counter slices"
+  },
+  {
+    "category": "slices",
+    "name": "Banana & walnut bread",
+    "image": "assets/product-078.webp",
+    "description": "Banana bread with walnuts, supplied as loaves for portioning.",
+    "format": "Loaf selections"
+  },
+  {
+    "category": "scones-scrolls",
+    "name": "Plain scones",
+    "image": "assets/product-079.webp",
+    "description": "Classic golden scones for afternoon-tea selections and bakery counters.",
+    "format": "Batch selections"
+  },
+  {
+    "category": "scones-scrolls",
+    "name": "Fruit scones",
+    "image": "assets/product-080-clean.webp",
+    "description": "Rustic fruit-studded scones for a traditional sweet bakery offering.",
+    "format": "Batch selections"
+  },
+  {
+    "category": "scones-scrolls",
+    "name": "Iced cinnamon scrolls",
+    "image": "assets/product-081.webp",
+    "description": "Spiralled cinnamon scrolls finished with icing and presented by the tray.",
+    "format": "Sweet scrolls"
+  },
+  {
+    "category": "scones-scrolls",
+    "name": "Spinach & feta scrolls",
+    "image": "assets/product-082.webp",
+    "description": "Golden savoury scrolls with spinach and feta filling.",
+    "format": "Savoury scrolls"
+  },
+  {
+    "category": "scones-scrolls",
+    "name": "Date scones",
+    "image": "assets/product-083.webp",
+    "description": "Traditional scones with date pieces for morning-tea selections.",
+    "format": "Batch selections"
+  },
+  {
+    "category": "scones-scrolls",
+    "name": "Sultana scones",
+    "image": "assets/product-084.webp",
+    "description": "Golden scones studded with sultanas.",
+    "format": "Batch selections"
+  },
+  {
+    "category": "scones-scrolls",
+    "name": "Blueberry scones",
+    "image": "assets/product-085.webp",
+    "description": "Fruit scones with blueberries for a varied bakery selection.",
+    "format": "Batch selections"
+  },
+  {
+    "category": "scones-scrolls",
+    "name": "Pumpkin scones",
+    "image": "assets/product-086.webp",
+    "description": "Pumpkin-flavoured scones for sweet or savoury pairings.",
+    "format": "Batch selections"
+  },
+  {
+    "category": "scones-scrolls",
+    "name": "Cheddar cheese scones",
+    "image": "assets/product-087.webp",
+    "description": "Cheddar-flavoured scones for a savoury afternoon-tea option.",
+    "format": "Batch selections"
+  },
+  {
+    "category": "scones-scrolls",
+    "name": "Cheese & chive scones",
+    "image": "assets/product-088.webp",
+    "description": "Cheese and chive scones for the savoury counter.",
+    "format": "Batch selections"
+  },
+  {
+    "category": "scones-scrolls",
+    "name": "Apple & cinnamon scrolls",
+    "image": "assets/product-089.webp",
+    "description": "Sweet scrolls with apple and cinnamon filling.",
+    "format": "Sweet scrolls"
+  },
+  {
+    "category": "scones-scrolls",
+    "name": "Caramel pecan scrolls",
+    "image": "assets/product-090.webp",
+    "description": "Scrolls finished with caramel and pecan pieces.",
+    "format": "Sweet scrolls"
+  },
+  {
+    "category": "scones-scrolls",
+    "name": "Cheese & bacon scrolls",
+    "image": "assets/product-091.webp",
+    "description": "Savoury scrolls with cheese and bacon filling.",
+    "format": "Savoury scrolls"
+  },
+  {
+    "category": "scones-scrolls",
+    "name": "Pizza scrolls",
+    "image": "assets/product-092.webp",
+    "description": "Savoury scrolls with tomato, cheese and pizza-style seasoning.",
+    "format": "Savoury scrolls"
+  },
+  {
+    "category": "pastries",
+    "name": "Almond croissants",
+    "image": "assets/product-093.webp",
+    "description": "Layered pastry with flaked almonds and a dusting of icing sugar.",
+    "format": "Pastry selections"
+  },
+  {
+    "category": "pastries",
+    "name": "Sprinkle doughnuts",
+    "image": "assets/product-094-clean.webp",
+    "description": "Brightly iced doughnuts with sprinkles for a colourful sweet display.",
+    "format": "Mixed sweet orders"
+  },
+  {
+    "category": "pastries",
+    "name": "Decorated cupcakes",
+    "image": "assets/product-095-clean.webp",
+    "description": "Individual decorated cakes for event tables and boxed sweet selections.",
+    "format": "Boxed selections"
+  },
+  {
+    "category": "pastries",
+    "name": "Chocolate éclairs",
+    "image": "assets/product-096-clean.webp",
+    "description": "Chocolate-topped choux pastries for a classic patisserie selection.",
+    "format": "Individual pastries"
+  },
+  {
+    "category": "pastries",
+    "name": "Blueberry muffins",
+    "image": "assets/product-097-clean.webp",
+    "description": "Golden muffins dotted with blueberries, ready for a varied bakery display.",
+    "format": "Batch selections"
+  },
+  {
+    "category": "pastries",
+    "name": "Chocolate éclairs — mini",
+    "image": "assets/product-098.webp",
+    "description": "Small chocolate-topped éclairs for dessert platters and events.",
+    "format": "Mini patisserie"
+  },
+  {
+    "category": "pastries",
+    "name": "Coffee éclairs",
+    "image": "assets/product-099.webp",
+    "description": "Choux pastries with a coffee-flavoured filling and finish.",
+    "format": "Individual pastries"
+  },
+  {
+    "category": "pastries",
+    "name": "Vanilla custard éclairs",
+    "image": "assets/product-100.webp",
+    "description": "Choux pastries filled with vanilla custard.",
+    "format": "Individual pastries"
+  },
+  {
+    "category": "pastries",
+    "name": "Double chocolate muffins",
+    "image": "assets/product-101.webp",
+    "description": "Chocolate muffins with chocolate pieces for the café counter.",
+    "format": "Batch selections"
+  },
+  {
+    "category": "pastries",
+    "name": "Raspberry & white chocolate muffins",
+    "image": "assets/product-102.webp",
+    "description": "Muffins with raspberry and white chocolate flavours.",
+    "format": "Batch selections"
+  },
+  {
+    "category": "pastries",
+    "name": "Banana muffins",
+    "image": "assets/product-103-clean.webp",
+    "description": "Banana-flavoured muffins for breakfast displays and coffee breaks.",
+    "format": "Batch selections"
+  },
+  {
+    "category": "pastries",
+    "name": "Vanilla cupcakes",
+    "image": "assets/product-104.webp",
+    "description": "Individual vanilla cakes with a decorative frosting finish.",
+    "format": "Boxed selections"
+  },
+  {
+    "category": "pastries",
+    "name": "Chocolate cupcakes",
+    "image": "assets/product-105-clean.webp",
+    "description": "Individual chocolate cakes with a frosted finish.",
+    "format": "Boxed selections"
+  }
+]
